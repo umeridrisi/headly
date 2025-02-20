@@ -23,31 +23,14 @@ export default function Footer(props) {
 
         <p>
           {props.legal} {props.credits}{' '}
-          <a href="https://lucasm.dev/?utm_source=headly_app" target="_blank" rel="external noreferrer">
-            Lucas Menezes
+          <a href="https://umeridrisi.com/?utm_source=thelahoretimes.com" target="_blank" rel="external noreferrer">
+            Umer Idrisi
           </a>
           .
         </p>
 
-        <ul>
           <li>
-            <a href="https://github.com/sponsors/lucasm" target="_blank" rel="external noreferrer">
-              ♥ {props.donate}
-            </a>
-          </li>
-          <li>
-            <a href="https://github.com/lucasm/headly" target="_blank" rel="external noopener noreferrer">
-              {props.about}
-            </a>
-          </li>
-          <li>
-            <a href="https://lucasm.dev/privacy" target="_blank" rel="external noopener noreferrer">
-              {props.privacy}
-            </a>
-          </li>
-
-          <li>
-            <a href="mailto:feedback@headly.app?subject=Feedback">{props.feedback}</a>
+            <a href="mailto:contact@thelahoretimes.com?subject=Feedback">{props.feedback}</a>
           </li>
         </ul>
       </div>
