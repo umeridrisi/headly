@@ -4,8 +4,6 @@ import CardFeed from '../components/CardFeed'
 
 // locales
 import en from '../locales/en'
-import pt_BR from '../locales/pt-BR'
-import pt_PT from '../locales/pt-PT'
 
 export default function Index() {
   // defaults
