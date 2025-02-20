@@ -4,7 +4,7 @@ import PageLayout from '../components/PageLayout'
 
 export default function PageAbout() {
   return (
-    <PageLayout title="About - Headly" description="News reader app for the critical sense.">
+    <PageLayout title="About - TheLahoreTimes" description="a quick news platform for Pakistanis.">
       <section className="fullscreen">
         <div className="fullscreen-container">
           <div className="container">
