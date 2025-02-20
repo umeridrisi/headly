@@ -1,6 +1,6 @@
 export default {
-  title: 'Headly — News for the critical sense',
-  description: 'Breaking news headlines from trusted journalism. Be critical. Fight against misinformation.',
+  title: 'The Lahore Times — online breaking news from Pakistan',
+  description: 'Breaking news headlines from trusted journalism in Pakistan and nothing else.',
   legal: 'All rights reserved to the news sources and trademarks.',
   about: 'About',
   privacy: 'Privacy',
